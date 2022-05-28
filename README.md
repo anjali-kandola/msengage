@@ -40,6 +40,11 @@
 
     yarn install or npm install
 
+### Open terminal in cloned folder and run command to run react in browser
+    yarn run start
+    or 
+    npm run start
+    
 ### Open new terminal and cd to backend folder and run command
 
     python server.py
