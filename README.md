@@ -2,6 +2,8 @@
 
 ### Install [vs code](https://code.visualstudio.com/)
 
+### Install [Anaconda](https://www.anaconda.com/products/distribution)
+
 ### Install [Python](https://www.python.org/downloads/)
 
 ### Install [Node JS](https://nodejs.org/en/download/)
@@ -14,8 +16,13 @@
 ## [pickle](https://pypi.org/project/pickle5/)
     pip install pickle5
 
+## [Seaborn](https://seaborn.pydata.org/installing.html)
+    pip install seaborn
+    conda install seaborn
+
 ## [Matplotlib](https://pypi.org/project/matplotlib/)
     pip install matplotlib
+    
 ## [NumPy](https://numpy.org/install/) and [Pandas](https://pypi.org/project/pandas/)
     pip install numpy
     pip install pandas
@@ -49,8 +56,9 @@
 
     python server.py
 
-### Again open new terminal and cd to streamlit folder and run command
-
+### Now again open new terminal and cd to streamlit folder and activate base conda environment using  command
+    conda activate base
+### After thi run the following command in same terminal
     streamlit run app.py
 
 [Open app in browser](http://localhost:3000/)
