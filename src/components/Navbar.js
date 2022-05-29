@@ -5,7 +5,7 @@ function Navbar() {
 
             <nav class="bg-white border-gray-200 px-2 sm:px-4 py-2.5 sticky top-0 z-10 dark:bg-gray-800">
                 <div class="container flex flex-wrap justify-between items-center mx-auto">
-                    <a href="https://flowbite.com" class="flex items-center">
+                    <a href="/" class="flex items-center">
                         <img src="https://www.freeiconspng.com/thumbs/analytic-icon/data-analytic-icon-6.png" class="mr-3 h-6 sm:h-9" alt="Flowbite Logo" />
                         <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">Data Analytics</span>
                     </a>
